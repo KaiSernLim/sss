@@ -24,3 +24,5 @@ We are about half a week behind schedule and we absolutely need to make up for l
 **Week 4:** Tie up any loose ends with the rendering and spend time rendering the pretty pictures.
 
 ## Video and Slides
+[Video](https://youtu.be/sOldr_AmJ8g)
+[Slides](https://docs.google.com/presentation/d/14yhEIX0eYCW3Cwl7MBpkXEmL3pRK8PxaBxdUE_RQAlI/edit)
